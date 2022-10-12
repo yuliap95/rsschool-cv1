@@ -8,26 +8,27 @@
 * Telegram: Петрова Юлия
 * Discord: yuliap95#5423
 
-# About Me#
+## About Me ## 
 
-## I easily find common ground with people because I work in the service industry. I like to work in a team. Very responsible, hard-working. I like to learn something new. So I decided to take this course and change jobs.##
+I easily find common ground with people because I work in the service industry. I like to work in a team. Very responsible, hard-working. I like to learn something new. So I decided to take this course and change jobs.
 
-# Skills#
+## Skills ##
 * HTML
 * CSS
 * Git
 
-# Code Example#
+## Code Example ##
 
-   ```function multiply(a, b){
+   ```javascript
+   function multiply(a, b){
    return a * b;
    };
    ```
 
-# Education#
+## Education ##
 
-## Vitebsk State Order of Peoples’ Friendship Medical University##
+ Vitebsk State Order of Peoples’ Friendship Medical University
 
-# English#
+## English ##
 
 A2
